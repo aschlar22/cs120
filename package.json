@@ -1,10 +1,10 @@
 {
-  "name": "helloapp",
+  "name": "app2",
   "version": "1.0.0",
-  "description": "node app ",
-  "main": "hello_heroku.js",
+  "description": "Web App 2 ",
+  "main": "server.js",
   "scripts": {
-  "start": "node hello_heroku.js"
+  "start": "node server.js"
 },
   "repository": {
   "type": "git",
@@ -16,4 +16,7 @@
   "url": ""
 },
   "homepage": ""
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
 }
