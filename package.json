@@ -17,6 +17,6 @@
 },
   "homepage": ""
   "dependencies": {
-    "mongodb": "^6.3.0"
+    "mongodb": "^4.17.2"
   }
 }
